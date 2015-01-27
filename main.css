@@ -1,0 +1,39 @@
+header {
+	background: #456; 
+	color: white;
+	padding: 40px 10px;
+}
+
+.content {
+	padding: 20px;
+}
+
+.blocks {
+	background: #e6e9ec; 
+	padding: 10px; 
+	border-radius: 4px; 
+	display: inline-block; 
+	margin: 5px;
+	vertical-align: top;
+	height: 200px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	color: green;
+}
+
+footer {
+	background: #456; 
+	color: white; 
+	text-align: right;
+	font-weight: bold;
+	padding: 20px;
+}
+
+.sarcasm {
+	text-decoration: line-through;
+}
